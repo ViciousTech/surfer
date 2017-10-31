@@ -1,4 +1,5 @@
-
+#using python 3
+#This Code is Obsolete now
 import math
 
 class Calc_num:
